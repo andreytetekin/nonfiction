@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'BMIntrospectionRegular';
+	src: url('BMIntrospection-Regular.eot');
+	src:
+	     url('BMIntrospection-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('BMIntrospection-Regular.woff2') format('woff2'),
+	     url('BMIntrospection-Regular.woff') format('woff'),
+	     url('BMIntrospection-Regular.ttf') format('truetype'),
+	     url('BMIntrospection-Regular.svg#BMIntrospection-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
